@@ -187,6 +187,7 @@ GEM
       activesupport (>= 5.2)
       sprockets (>= 3.0.0)
     sqlite3 (1.4.2)
+    stripe (5.55.0)
     thor (1.2.1)
     tilt (2.0.10)
     turbolinks (5.2.1)
@@ -241,6 +242,7 @@ DEPENDENCIES
   sass-rails (>= 6)
   selenium-webdriver (>= 4.0.0.rc1)
   sqlite3 (~> 1.4)
+  stripe
   turbolinks (~> 5)
   twitter-bootstrap-rails
   tzinfo-data
